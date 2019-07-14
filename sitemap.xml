@@ -3,90 +3,90 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://badlefaud.github.io/blog/</loc>
+    <loc>https://badlefaud.mgabriel.com/blog/</loc>
     <lastmod>2018-10-10T13:07:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://badlefaud.github.io/</loc>
-    <lastmod>2018-10-10T13:07:31+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://badlefaud.github.io/categories/</loc>
+    <loc>https://badlefaud.mgabriel.com/</loc>
     <lastmod>2018-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://badlefaud.github.io/tags/</loc>
+    <loc>https://badlefaud.mgabriel.com/categories/</loc>
     <lastmod>2018-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://badlefaud.github.io/blog/video/</loc>
-    <lastmod>2018-10-10T13:07:31+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://badlefaud.github.io/tags/golang/</loc>
+    <loc>https://badlefaud.mgabriel.com/tags/</loc>
     <lastmod>2018-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://badlefaud.github.io/tags/hugo/</loc>
+    <loc>https://badlefaud.mgabriel.com/blog/video/</loc>
+    <lastmod>2018-10-10T13:07:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://badlefaud.mgabriel.com/tags/golang/</loc>
     <lastmod>2018-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://badlefaud.github.io/tags/programming/</loc>
+    <loc>https://badlefaud.mgabriel.com/tags/hugo/</loc>
     <lastmod>2018-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://badlefaud.github.io/categories/starting/</loc>
+    <loc>https://badlefaud.mgabriel.com/tags/programming/</loc>
     <lastmod>2018-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://badlefaud.github.io/tags/theme/</loc>
+    <loc>https://badlefaud.mgabriel.com/categories/starting/</loc>
     <lastmod>2018-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://badlefaud.github.io/blog/exemple/</loc>
+    <loc>https://badlefaud.mgabriel.com/tags/theme/</loc>
+    <lastmod>2018-10-10T13:07:31+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://badlefaud.mgabriel.com/blog/exemple/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://badlefaud.github.io/tags/ipsum/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://badlefaud.github.io/categories/lorem/</loc>
+    <loc>https://badlefaud.mgabriel.com/tags/ipsum/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://badlefaud.github.io/contact/</loc>
+    <loc>https://badlefaud.mgabriel.com/categories/lorem/</loc>
+    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://badlefaud.github.io/photos/</loc>
+    <loc>https://badlefaud.mgabriel.com/contact/</loc>
   </url>
   
   <url>
-    <loc>https://badlefaud.github.io/service/</loc>
+    <loc>https://badlefaud.mgabriel.com/photos/</loc>
+  </url>
+  
+  <url>
+    <loc>https://badlefaud.mgabriel.com/service/</loc>
   </url>
   
 </urlset>

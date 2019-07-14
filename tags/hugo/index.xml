@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>hugo on Bad Le Faud</title>
-    <link>https://badlefaud.github.io/tags/hugo/</link>
+    <link>https://badlefaud.mgabriel.com/tags/hugo/</link>
     <description>Recent content in hugo on Bad Le Faud</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 10 Oct 2018 13:07:31 +0200</lastBuildDate>
     
-	<atom:link href="https://badlefaud.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://badlefaud.mgabriel.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Un exemple avec une vidéo</title>
-      <link>https://badlefaud.github.io/blog/video/</link>
+      <link>https://badlefaud.mgabriel.com/blog/video/</link>
       <pubDate>Wed, 10 Oct 2018 13:07:31 +0200</pubDate>
       
-      <guid>https://badlefaud.github.io/blog/video/</guid>
+      <guid>https://badlefaud.mgabriel.com/blog/video/</guid>
       <description>Install this template by following those simple steps: STEP-1 : Hugo installation Check this link below for install hugo on your computer. hugo install documentation
 STEP-2 : Create your project Hugo provides a new command to create a new website.
 hugo new site &amp;lt;new_project&amp;gt;  STEP-3 : Install the theme Run this command
